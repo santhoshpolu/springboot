@@ -127,7 +127,7 @@
 
 <artifactId>bcprov-jdk15on</artifactId>
 
-<version>1.49</version>
+<version>1.67</version>
 
 <type>jar</type>
 
